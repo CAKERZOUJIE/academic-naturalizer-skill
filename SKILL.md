@@ -1,3 +1,8 @@
+---
+name: academic-naturalizer-skill
+description: 用于中文论文写作、自然化润色和后期降重改写的 Codex Skill，强调保留原意、减少模板化表达、改善段落具体性。Use when writing or revising Chinese academic work, reducing repetitive phrasing, or making academic prose more natural.
+---
+
 # 中文学术文本自然化改写
 
 Use this skill when the user is writing or revising Chinese academic work and wants the text to read more natural, less repetitive, less template-like, and closer to a mature human academic style. It can be used both during the thesis or paper writing process and during later-stage rewriting for duplication reduction. Typical requests include "降低 AI 味", "降重", "润色论文", "改得自然一点", "帮我写得学术但自然", "减少模板化表达", "学术但不要生硬", or "保留原意重新表达".
